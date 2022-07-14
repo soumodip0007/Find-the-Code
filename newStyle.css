@@ -1,0 +1,9 @@
+body {
+    background:url("./cd.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 1.6rem;
+    font-family: "Open Sans", sans-serif;
+    text-shadow: 3px 3px #0d0d0e;
+    color: #e2e8ee;
+  }
